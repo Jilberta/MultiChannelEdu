@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multichannel</string>
+
+    <string name="field_name">Hello Multichannel</string>
+
+
+    <string name="server_downtime_main_text">Mobile banking under maintenance</string>
+    <string name="server_downtime_secondary_text">Due to technical improvements, mobile bank is temporarily unavailable, for additional information contact us: *2727</string>
+    <string name="try_again">Try Again</string>
+
+
+</resources>
