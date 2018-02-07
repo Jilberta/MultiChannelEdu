@@ -23,6 +23,10 @@ public class ListViewActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.listView);
         MyAdapter adapter = new MyAdapter(data, this);
 
+        System.out.println();
+
+        System.out.println("OE OE");
+
         listView.setAdapter(adapter);
 
     }
